@@ -1,6 +1,6 @@
 # Why?
 
-As you might now, because I want and I can.
+As you might know because I want and I can.
 
 I store here all "learning" or test/funny projects that I don't want to store in my profile repos.
 
